@@ -1,4 +1,4 @@
-## Calculator1234
+## Calculator123
 
 > I always want to build my own calculator app and in this project, I have buid one. It can compute 21 digits or more from the decimal point. It can also handle huge numbers and return an exponent. 
 
